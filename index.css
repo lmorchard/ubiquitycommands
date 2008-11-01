@@ -1,0 +1,23 @@
+/**
+ *
+ */
+
+body { background-color: #111; color: #eee; text-align: center; font: 14px georgia } 
+
+.wrapper { width: 75%; margin: 0 auto 0 auto; text-align: left; }
+
+.header { position: relative; }
+.header a { color: #ddd; text-decoration: none; border-bottom: 1px solid #666; }
+.header a:hover { border-bottom: 1px solid #ddd; }
+.header a:visited { }
+.header h1.title { font-family: monospace; border-bottom: 1px solid #eee; padding-bottom: 0.25em;}
+.header h1.title a { border: none }
+.header h2.subtitle { font-family: monospace; font: 12px arial; position: absolute; top: 0; left: 29ex; color: #666; }
+.header h2.subtitle strong { color: #ddd; }
+.header ul.nav { list-style-type: none; margin: 0; padding: 0; position: absolute; right: 0; top: 0.75em; font: 12px arial; }
+.header ul.nav li { float: left; padding-left: 0.75em; }
+.header .intro { padding-left: 140px; background: transparent url(http://decafbad.com/images/heeed9.jpg) no-repeat; line-height: 1.5em; border-bottom: 1px solid #eee; padding-bottom: 0.25em; margin-bottom: 1em }
+
+.content { width: 100%; text-align: center; }
+.content #friendfeed { background-color: #333; padding: 1em;}
+.content #growup { margin-left: auto; margin-right: auto; padding-top: 1em; }
