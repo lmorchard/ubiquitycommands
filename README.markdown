@@ -6,4 +6,4 @@ Share and Enjoy
 
 ## delicious.com command
 
-see also: http://decafbad.com/blog/2008/09/07/improving-my-delicious-command-for-ubiquity
+see also: [Improving my Delicious command for Ubiquity](http://decafbad.com/blog/2008/09/07/improving-my-delicious-command-for-ubiquity)
